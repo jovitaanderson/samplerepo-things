@@ -2,3 +2,5 @@ FRUITS
 apples
 berries
 cherries
+mango
+banana
